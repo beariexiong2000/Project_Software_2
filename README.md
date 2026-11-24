@@ -15,7 +15,7 @@ A **Manager** is responsible for
 -breaking down larger tasks into smaller manageable tasks, 
 -estimating the time needed
 -maintaining the quality of the work within that area.
--```
+-......
 
 | Team Member | Role |
 | Chebet | HTML / Structure Manager |
