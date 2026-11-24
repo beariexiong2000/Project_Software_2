@@ -22,3 +22,5 @@ A **Manager** is responsible for
 | Vindi | CSS / UI Manager |
 | Xuehua | Flask / Backend Manager |
 | Qiang | API & JavaScript Manager |
+
+
